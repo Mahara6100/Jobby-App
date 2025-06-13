@@ -1,0 +1,46 @@
+.website-logo {
+  height: 4vh;
+  width: 6vw;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.nav-header {
+  background-color: #202020;
+  padding: 8px;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-self: center;
+}
+
+.nav-link {
+  font-family: 'Roboto';
+  text-decoration: none;
+  margin: 10px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.logout-btn {
+  font-size: 15px;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 5px 14px;
+  background-color: #6366f1;
+  border: none;
+  border-radius: 4px;
+  align-self: center;
+  margin-right: 10px;
+  cursor: pointer;
+}
