@@ -8,7 +8,6 @@
   word-wrap: break-word;
 }
 
-
 @media screen and (max-width: 768px) {
   .company-info {
     flex-direction: column;

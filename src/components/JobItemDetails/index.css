@@ -98,6 +98,7 @@
 
   .company-building {
     width: 100%;
+    align-self: center;
   }
 
   .item-details {
@@ -115,7 +116,7 @@
 }
 
 .company-building {
-  width: 400px;
+  width: 300px;
 }
 
 .similar-products-heading {
@@ -138,6 +139,7 @@
   flex-direction: column;
   flex-wrap: wrap;
   padding-left: 0;
+  list-style-type: none;
 }
 
 @media screen and (min-width: 768px) {
